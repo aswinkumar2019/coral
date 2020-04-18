@@ -1,0 +1,1 @@
+python3 dupe.py models/mobilenet_ssd_v2_coco_quant_postprocess_edgetpu.tflite  --label models/coco_labels.txt --input /home/pi/show.mp4 
